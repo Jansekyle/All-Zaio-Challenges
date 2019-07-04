@@ -1,0 +1,81 @@
+body{
+    background-image: url(https://vergizmo.com/wp-content/uploads/2018/10/Tinder-logo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.card{
+    margin: 20px auto;
+    height: 640px;
+}
+
+img{
+    width: 41px;
+    height: 41px;
+}
+
+p{
+    font-size: 14px;
+}
+
+h3{
+    font-size: 24px;
+    font-style: italic;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.row{
+    margin-bottom: 5%;
+}
+
+
+.btn{
+    margin:0;
+    width: 100%;
+    height: 60px;
+    border: solid;
+    border-radius: 28px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.fb{
+    text-decoration: none;
+    text-transform: uppercase;
+    color: white;
+    background-color: #29487d;
+    background: -moz-linear-gradient(left, #29487d 0%, #4267b2 100%);
+    background: -webkit-linear-gradient(left, #29487d 0%, #4267b2 100%);
+    background: linear-gradient(left, #29487d 0%, #4267b2 100%);
+}
+
+.phone{
+    border-color: lightgray;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: lightgray;
+}
+
+a{
+    color: grey;
+    font-size: 16px;
+    text-decoration: underline
+}
+
+
+.button{
+    padding: 13px 22px;
+    width: 100%; 
+    border: outset;
+    background-color: white;
+    border-color: lightgray;
+    border-radius: 10px;
+    border-width: thin;
+}
+
+.logo{
+    width: 32px;
+    height: 32px;
+}
